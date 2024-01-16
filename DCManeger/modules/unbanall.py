@@ -18,7 +18,7 @@ from DCManeger import *
 from DCManeger import LOGGER
 from DCManeger.events import register
 
-BOT_ID = 5360305806
+BOT_ID = 6582690640
 CMD_HELP = "/ !"
 
 
