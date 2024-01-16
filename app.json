@@ -1,0 +1,28 @@
+{
+    "name": "dc Robot",
+    "description": "Telegram Group Management Bot.",
+    "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
+    "keywords": [
+       "telegram",
+       "modular",
+       "group",
+       "manager"
+    ],   
+ "repository": "https://github.com/AMOPBOT/DCManeger",
+ "stack": "heroku-22",
+ "addons": [
+    {
+       "options": {
+          "version": "12"
+       },
+       "plan": "heroku-postgresql"
+    }
+ ],
+ "env": {
+    "TOKEN": {
+       "description": "Get bot token from @BotFather on TG",
+       "required": true,
+       "value": ""
+    }
+ }
+}
