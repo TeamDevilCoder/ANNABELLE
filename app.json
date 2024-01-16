@@ -1,14 +1,14 @@
 {
     "name": "dc Robot",
     "description": "Telegram Group Management Bot.",
-    "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
+    "logo": "https://graph.org/file/07cf9164916f74da2ba1d.jpg",
     "keywords": [
        "telegram",
        "modular",
        "group",
        "manager"
     ],   
- "repository": "https://github.com/AMOPBOT/DCManeger",
+ "repository": "https://github.com/TeamDevilCoder/ANNABELLE",
  "stack": "heroku-22",
  "addons": [
     {
