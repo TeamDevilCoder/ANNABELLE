@@ -64,7 +64,7 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-RUN git clone https://github.com/AMOPBOT/DCManeger /root/DCManeger
+RUN git clone https://github.com/TeamDevilCoder/ANNABELLE /root/DCManeger
 WORKDIR /root/DCManeger
 
 #Copy config file to /root/DCManeger/DCManeger
