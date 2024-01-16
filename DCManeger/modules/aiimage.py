@@ -13,7 +13,7 @@ async def imagine_(b, message: Message):
     else:
         text =message.text.split(None, 1)[1]
     m =await message.reply_text( "`Please wait...,\n\nGenerating prompt .. ...`")
-    results= requests.get(f"https://dc-api.vercel.app/imagine/{text}").json()["results"]
+    results= requests.get(f"https://mukesh-api.vercel.app/imagine/{text}").json()["results"]
 
     caption = f"""
 sᴜᴄᴇssғᴜʟʟʏ Gᴇɴᴇʀᴀᴛᴇᴅ 💘
