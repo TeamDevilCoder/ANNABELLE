@@ -7,7 +7,7 @@ class Config(object):
     API_ID = 12227067 # integer value, dont use ""
     API_HASH = "b463bedd791aa733ae2297e6520302fe"
     TOKEN = "6582690640:AAHvFJleFjzegJHMIA4MwExyAsjufSGRPpA"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 5360305806 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 5946148765 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     CHANNEL = "dcbotz" 
     SUPPORT_CHAT = "DC_BOT_Support"  # Your own group for support, do not add the @
     START_IMG = "https://graph.org/file/955c11885d9572ed684a6.jpg"
@@ -25,11 +25,11 @@ class Config(object):
     # Optional fields
     CHATBOT_API="" # get it from @FallenChat_Bot using /token
     BL_CHATS = []  # List of groups that you want blacklisted.
-    DRAGONS = ["5360305806","6109442416","736041718"]  # User id of sudo users
+    DRAGONS = ["6109442416","736041718"]  # User id of sudo users
     DEV_USERS = ["5360305806","6109442416","736041718","5916859256","5946148765"]  # User id of dev users
-    DEMONS = ["5360305806","6109442416","736041718"]  # User id of support users
-    TIGERS = ["5360305806","6109442416","736041718"]  # User id of tiger users
-    WOLVES = ["5360305806","6109442416","736041718"]  # User id of whitelist users
+    DEMONS = ["6109442416","736041718"]  # User id of support users
+    TIGERS = ["6109442416","736041718"]  # User id of tiger users
+    WOLVES = ["6109442416","736041718"]  # User id of whitelist users
     DEVIL = 5946148765
     ALLOW_CHATS = True
     ALLOW_EXCL = True
