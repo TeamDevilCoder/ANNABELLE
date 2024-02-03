@@ -15,7 +15,7 @@ class Config(object):
     JOIN_LOGGER = ("-1001531647177")  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= "mongodb+srv://MusicRoboXBot:3yDvdQqJfWkfQxXP@musicroboxbot.jbt7hzl.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
-    DATABASE_URL = "postgres://gqamawel:d3iqDuHfZQONokPCLclcMJc9Qdvm0Xpj@heffalump.db.elephantsql.com/gqamawel"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://aguhselxrktjou:8041b95575ab3bfa5376dc1d3919579d22f1ee97a7ad3689030085cbcbe5d2cf@ec2-44-206-204-65.compute-1.amazonaws.com:5432/d4d6drik95opt0"  # A sql database url from elephantsql.com
     CASH_API_KEY = (
         "PNNU99H3W9KDLKVM"  # Get your API key from https://www.alphavantage.co/support/#api-key
     )
